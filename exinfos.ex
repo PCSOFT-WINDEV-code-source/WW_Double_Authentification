@@ -1,0 +1,9 @@
+[INFOS]
+gaf=0
+title=WW_Double_Authentification
+image=description.gif
+description=description.rtf
+source=0
+typesite=0
+[OBJECT]
+WW_Double_Authentification.wwp=4096
